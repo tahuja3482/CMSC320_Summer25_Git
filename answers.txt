@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: In a video games, like a multiplayer shooter game, we can track certain statistics to find if people are cheating. For example, we can track accuracy, headshot accuracy, kill death ratio, and their matchmaking rating (skill level) over time. We could find outliers with this.
