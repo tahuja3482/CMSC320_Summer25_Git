@@ -9,3 +9,7 @@ Answer: In a video games, like a multiplayer shooter game, we can track certain 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging just combines two branches. Rebasing shifts the commits from one branch to another and preserves the commit history of the two branches which is better in the long term.
+
+Q4: What are you looking forward to this semester?
+
+Answer: The neural networks and CNNs portion of the class.
