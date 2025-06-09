@@ -5,3 +5,7 @@ Answer: Git allows us to have a form of version control. This will allow us to r
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: In a video games, like a multiplayer shooter game, we can track certain statistics to find if people are cheating. For example, we can track accuracy, headshot accuracy, kill death ratio, and their matchmaking rating (skill level) over time. We could find outliers with this.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging just combines two branches. Rebasing shifts the commits from one branch to another and preserves the commit history of the two branches which is better in the long term.
